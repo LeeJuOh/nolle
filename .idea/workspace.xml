@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0216b3cc-ba11-4ba9-a170-207cfcd1a0e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/follow_feed/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/follow_feed/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/place_detail/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/place_detail/views.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/homeApp/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeApp/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendApp/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/recommendApp/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recommendApp/views.py" afterDir="false" />
+>>>>>>> Stashed changes
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YvewlBpR1RMeJCSe6nrCw0WfTR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../label" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\server\loginApp" />
+      <recent name="C:\Users\USER\PycharmProjects\server\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\server\follow_map_list" />
+      <recent name="C:\Users\USER\PycharmProjects\server\follow_map" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Scripts/" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="category_recognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="serverproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/voice_recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voice_recognition/category_recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serializers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/voice_recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voice_recognition/serializers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loginApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loginApp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/voice_recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voice_recognition/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.category_recognize" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.serializers" />
+      <item itemvalue="Python.views (1)" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.category_recognize" />
+        <item itemvalue="Python.serializers" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0216b3cc-ba11-4ba9-a170-207cfcd1a0e5" name="Default Changelist" comment="" />
+      <created>1583827736379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583827736379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="74" key="#Inspections" timestamp="1590051150944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1590051150943" />
+    <state x="0" y="77" key="#Notifications" timestamp="1584251863413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="77" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584251863413" />
+    <state x="25" y="78" width="858" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584427694008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="25" y="78" width="858" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584427694008" />
+    <state x="902" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584366694611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="902" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584366694611" />
+    <state x="271" y="312" width="299" height="222" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1584253080206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="312" width="299" height="222" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1536.824@0.0.1536.824" timestamp="1584253080206" />
+    <state x="0" y="127" key="DBNavigator.ConnectionInfoDialog" timestamp="1584277335889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="127" key="DBNavigator.ConnectionInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1584277335889" />
+    <state x="0" y="130" key="DBNavigator.DatasetFilterDialog" timestamp="1588240199829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="130" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1588240199829" />
+    <state x="0" y="70" key="DBNavigator.MethodExecutionHistoryDialog" timestamp="1584201040976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="70" key="DBNavigator.MethodExecutionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1584201040976" />
+    <state x="7" y="129" width="747" height="683" key="DBNavigator.ProjectSettingsDialog" timestamp="1588046735691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="7" y="129" width="747" height="683" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588046735691" />
+    <state x="162" y="184" key="EnvironmentVariablesDialog" timestamp="1584426802822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="184" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584426802822" />
+    <state x="1107" y="124" key="FileChooserDialogImpl" timestamp="1590980400841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="664" y="73" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589950313650" />
+    <state x="830" y="92" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590548706667" />
+    <state x="1107" y="124" key="FileChooserDialogImpl/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1590980400841" />
+    <state width="760" height="200" key="GridCell.Tab.0.bottom" timestamp="1588053222099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588053222099" />
+    <state width="760" height="200" key="GridCell.Tab.0.center" timestamp="1588053222099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588053222099" />
+    <state width="760" height="200" key="GridCell.Tab.0.left" timestamp="1588053222099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588053222099" />
+    <state width="760" height="200" key="GridCell.Tab.0.right" timestamp="1588053222099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588053222099" />
+    <state width="373" height="249" key="GridCell.Tab.1.bottom" timestamp="1584424967037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="373" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584424967037" />
+    <state width="373" height="249" key="GridCell.Tab.1.center" timestamp="1584424967037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="373" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584424967037" />
+    <state width="373" height="249" key="GridCell.Tab.1.left" timestamp="1584424967037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="373" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584424967037" />
+    <state width="373" height="249" key="GridCell.Tab.1.right" timestamp="1584424967037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="373" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584424967037" />
+    <state x="697" y="117" width="914" height="709" key="SettingsEditor" timestamp="1590765482098">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="12" y="36" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584427957923" />
+    <state x="697" y="117" key="SettingsEditor/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1590765482098" />
+    <state x="471" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1590561021487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590561021487" />
+    <state x="87" y="47" width="719" height="735" key="find.popup" timestamp="1590995936365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="87" y="47" width="719" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590995936365" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590600221355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590600221355" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loginApp/models.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manage.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
