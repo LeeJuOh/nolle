@@ -69,5 +69,5 @@
 - DB 설계
 - 추천 모듈 구현
 
-[프로젝트 소개](https://www.notion.so/NOLLE-Android-9aaf5f2725c943cba1a12dc5c98c56c6)
+[프로젝트 소개](https://foamy-kookaburra-ef9.notion.site/NOLLE-72324bc1c4534a3d865552af0ceb531f)
 
